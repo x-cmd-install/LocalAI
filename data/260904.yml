@@ -7,7 +7,7 @@ about:
   head: 87d15e7
   archived: false
   latestVersion: v4.9.0
-  collectedAt: 2026-09-04T20:17:34Z
+  collectedAt: 2026-09-04T20:26:28Z
 timeline:
   created: 2023-03-18
   lastCommit: 2026-09-04
@@ -18,7 +18,7 @@ popularity:
   fork: 4414
   release: 136
   contributor: 243
-  pullRequest: 5683
+  pullRequest: 5684
   issue: 1577
 language:
   Go: 15972806
@@ -41,7 +41,7 @@ recent:
     since: 2026-08-05
     release: 4
     mergedPR: 155
-    openPR: 91
+    openPR: 92
     closedIssue: 19
     openIssue: 30
     commit: 311
@@ -49,7 +49,7 @@ recent:
     since: 2026-07-06
     release: 8
     mergedPR: 291
-    openPR: 112
+    openPR: 113
     closedIssue: 71
     openIssue: 43
     commit: 793
@@ -57,7 +57,7 @@ recent:
     since: 2026-06-06
     release: 20
     mergedPR: 354
-    openPR: 113
+    openPR: 114
     closedIssue: 121
     openIssue: 48
     commit: 1170
@@ -65,7 +65,7 @@ recent:
     since: 2026-03-08
     release: 39
     mergedPR: 689
-    openPR: 117
+    openPR: 118
     closedIssue: 249
     openIssue: 69
     commit: 2025
@@ -73,7 +73,7 @@ recent:
     since: 2025-09-09
     release: 52
     mergedPR: 1245
-    openPR: 118
+    openPR: 119
     closedIssue: 413
     openIssue: 73
     commit: 3153
@@ -81,20 +81,20 @@ recent:
     since: 2024-09-14
     release: 77
     mergedPR: 2646
-    openPR: 118
+    openPR: 119
     closedIssue: 671
     openIssue: 81
     commit: 5190
 total:
   release: 136
   mergedPR: 4388
-  openPR: 118
+  openPR: 119
   closedIssue: 1484
   openIssue: 93
   commit: 7775
 ---
 path: /home/runner/.x-repo/github.com/mudler/LocalAI
-collectedAt: 2026-09-04T20:17:42Z
+collectedAt: 2026-09-04T20:26:35Z
 loc:
   Go:
     code: 509672
