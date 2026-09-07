@@ -1,0 +1,252 @@
+about:
+  description: "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required."
+  license: MIT
+  homepage: https://localai.io
+  head: 4d854f9
+  archived: false
+  latestVersion: "v4.9.0"
+  collectedAt: 2026-09-07T05:07:28Z
+timeline:
+  created: 2023-03-18
+  lastCommit: 2026-09-06
+  lastRelease: 2026-08-20
+popularity:
+  star: 48945
+  watcher: 300
+  fork: 4428
+  release: 136
+  contributor: 246
+  pullRequest: 5704
+  issue: 1580
+language:
+  Go: 15985120
+  JavaScript: 2501595
+  C++: 1174558
+  Python: 1152044
+  HTML: 860129
+  CSS: 503654
+  Shell: 460877
+  Makefile: 291904
+  CMake: 62731
+  C: 41595
+  Rust: 29562
+  Dockerfile: 21174
+  Nix: 6309
+  Go Template: 796
+totalBytes: 23092048
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 1
+    mergedPR: 166
+    openPR: 59
+    closedIssue: 18
+    openIssue: 31
+    commit: 285
+  last60d:
+    since: 2026-07-09
+    release: 6
+    mergedPR: 305
+    openPR: 79
+    closedIssue: 68
+    openIssue: 43
+    commit: 772
+  last90d:
+    since: 2026-06-09
+    release: 20
+    mergedPR: 366
+    openPR: 81
+    closedIssue: 121
+    openIssue: 50
+    commit: 1137
+  last180d:
+    since: 2026-03-11
+    release: 39
+    mergedPR: 690
+    openPR: 85
+    closedIssue: 248
+    openIssue: 70
+    commit: 2018
+  last360d:
+    since: 2025-09-12
+    release: 52
+    mergedPR: 1258
+    openPR: 86
+    closedIssue: 407
+    openIssue: 75
+    commit: 3174
+  last720d:
+    since: 2024-09-17
+    release: 77
+    mergedPR: 2630
+    openPR: 86
+    closedIssue: 668
+    openIssue: 83
+    commit: 5228
+total:
+  release: 136
+  mergedPR: 4405
+  openPR: 86
+  closedIssue: 1485
+  openIssue: 95
+  commit: 7826
+---
+path: /home/runner/.x-repo/github.com/mudler/LocalAI
+collectedAt: 2026-09-07T05:07:43Z
+loc:
+  Go:
+    code: 509891
+    comments: 45283
+    blanks: 41179
+    files: 1706
+  Yaml:
+    code: 72433
+    comments: 797
+    blanks: 869
+    files: 104
+  Jsx:
+    code: 35726
+    comments: 2272
+    blanks: 2545
+    files: 157
+  Json:
+    code: 29592
+    comments: 0
+    blanks: 2
+    files: 120
+  Css:
+    code: 27747
+    comments: 1212
+    blanks: 7120
+    files: 36
+  Python:
+    code: 24635
+    comments: 1978
+    blanks: 4157
+    files: 117
+  JavaScript:
+    code: 19347
+    comments: 2887
+    blanks: 2556
+    files: 162
+  Cpp:
+    code: 16876
+    comments: 4468
+    blanks: 2545
+    files: 54
+  Html:
+    code: 9926
+    comments: 413
+    blanks: 525
+    files: 77
+  Sh:
+    code: 7436
+    comments: 2948
+    blanks: 1726
+    files: 266
+  Makefile:
+    code: 4799
+    comments: 1403
+    blanks: 1047
+    files: 79
+  CHeader:
+    code: 1266
+    comments: 1194
+    blanks: 342
+    files: 35
+  Protobuf:
+    code: 936
+    comments: 354
+    blanks: 183
+    files: 1
+  CMake:
+    code: 927
+    comments: 318
+    blanks: 192
+    files: 19
+  Rust:
+    code: 735
+    comments: 25
+    blanks: 125
+    files: 4
+  C:
+    code: 536
+    comments: 39
+    blanks: 63
+    files: 4
+  Svg:
+    code: 529
+    comments: 0
+    blanks: 0
+    files: 4
+  CppHeader:
+    code: 360
+    comments: 54
+    blanks: 71
+    files: 1
+  Dockerfile:
+    code: 356
+    comments: 97
+    blanks: 92
+    files: 4
+  Toml:
+    code: 139
+    comments: 16
+    blanks: 27
+    files: 5
+  Nix:
+    code: 47
+    comments: 118
+    blanks: 8
+    files: 1
+  Markdown:
+    code: 0
+    comments: 15403
+    blanks: 6634
+    files: 146
+  Text:
+    code: 0
+    comments: 1950
+    blanks: 13
+    files: 268
+total:
+  code: 776624
+  comments: 84241
+  blanks: 72874
+  files: 3370
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T05:07:46+00:00
+  platform:
+    darwin/arm64:
+      name:  local-ai-v4.9.0-darwin-arm64
+      url:   https://github.com/mudler/LocalAI/releases/download/v4.9.0/local-ai-v4.9.0-darwin-arm64
+      size:  155840884
+      score: 35
+    darwin/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/arm64:
+      name:  local-ai-v4.9.0-linux-arm64
+      url:   https://github.com/mudler/LocalAI/releases/download/v4.9.0/local-ai-v4.9.0-linux-arm64
+      size:  149422242
+      score: 35
+    linux/amd64:
+      name:  local-ai-v4.9.0-linux-amd64
+      url:   https://github.com/mudler/LocalAI/releases/download/v4.9.0/local-ai-v4.9.0-linux-amd64
+      size:  158417058
+      score: 35
+    win/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
