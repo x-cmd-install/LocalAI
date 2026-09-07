@@ -2,107 +2,107 @@ about:
   description: "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required."
   license: MIT
   homepage: https://localai.io
-  head: 4d854f9
+  head: 561d623
   archived: false
   latestVersion: "v4.9.0"
-  collectedAt: 2026-09-07T05:07:28Z
+  collectedAt: 2026-09-07T19:23:21Z
 timeline:
   created: 2023-03-18
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2026-08-20
 popularity:
-  star: 48945
+  star: 48961
   watcher: 300
-  fork: 4428
+  fork: 4434
   release: 136
   contributor: 246
-  pullRequest: 5704
-  issue: 1580
+  pullRequest: 5713
+  issue: 1581
 language:
-  Go: 15985120
+  Go: 16011283
   JavaScript: 2501595
-  C++: 1174558
+  C++: 1174524
   Python: 1152044
   HTML: 860129
   CSS: 503654
   Shell: 460877
-  Makefile: 291904
-  CMake: 62731
+  Makefile: 291987
+  CMake: 62799
   C: 41595
   Rust: 29562
   Dockerfile: 21174
   Nix: 6309
   Go Template: 796
-totalBytes: 23092048
+totalBytes: 23118328
 recent:
   last30d:
     since: 2026-08-08
     release: 1
-    mergedPR: 166
-    openPR: 59
-    closedIssue: 18
-    openIssue: 31
-    commit: 285
+    mergedPR: 176
+    openPR: 60
+    closedIssue: 22
+    openIssue: 28
+    commit: 0
   last60d:
     since: 2026-07-09
     release: 6
-    mergedPR: 305
-    openPR: 79
-    closedIssue: 68
-    openIssue: 43
-    commit: 772
+    mergedPR: 315
+    openPR: 80
+    closedIssue: 72
+    openIssue: 40
+    commit: 0
   last90d:
     since: 2026-06-09
     release: 20
-    mergedPR: 366
-    openPR: 81
-    closedIssue: 121
-    openIssue: 50
-    commit: 1137
+    mergedPR: 376
+    openPR: 82
+    closedIssue: 125
+    openIssue: 47
+    commit: 0
   last180d:
     since: 2026-03-11
     release: 39
-    mergedPR: 690
-    openPR: 85
-    closedIssue: 248
-    openIssue: 70
-    commit: 2018
+    mergedPR: 700
+    openPR: 86
+    closedIssue: 252
+    openIssue: 67
+    commit: 0
   last360d:
     since: 2025-09-12
     release: 52
-    mergedPR: 1258
-    openPR: 86
-    closedIssue: 407
-    openIssue: 75
-    commit: 3174
+    mergedPR: 1268
+    openPR: 87
+    closedIssue: 411
+    openIssue: 72
+    commit: 0
   last720d:
     since: 2024-09-17
     release: 77
-    mergedPR: 2630
-    openPR: 86
-    closedIssue: 668
-    openIssue: 83
-    commit: 5228
+    mergedPR: 2640
+    openPR: 87
+    closedIssue: 672
+    openIssue: 80
+    commit: 5238
 total:
   release: 136
-  mergedPR: 4405
-  openPR: 86
-  closedIssue: 1485
-  openIssue: 95
-  commit: 7826
+  mergedPR: 4415
+  openPR: 87
+  closedIssue: 1489
+  openIssue: 92
+  commit: 7836
 ---
 path: /home/runner/.x-repo/github.com/mudler/LocalAI
-collectedAt: 2026-09-07T05:07:43Z
+collectedAt: 2026-09-07T19:23:35Z
 loc:
   Go:
-    code: 509891
-    comments: 45283
-    blanks: 41179
-    files: 1706
+    code: 510475
+    comments: 45309
+    blanks: 41235
+    files: 1713
   Yaml:
-    code: 72433
+    code: 72626
     comments: 797
-    blanks: 869
+    blanks: 872
     files: 104
   Jsx:
     code: 35726
@@ -130,9 +130,9 @@ loc:
     blanks: 2556
     files: 162
   Cpp:
-    code: 16876
-    comments: 4468
-    blanks: 2545
+    code: 16875
+    comments: 4469
+    blanks: 2544
     files: 54
   Html:
     code: 9926
@@ -146,7 +146,7 @@ loc:
     files: 266
   Makefile:
     code: 4799
-    comments: 1403
+    comments: 1404
     blanks: 1047
     files: 79
   CHeader:
@@ -160,7 +160,7 @@ loc:
     blanks: 183
     files: 1
   CMake:
-    code: 927
+    code: 928
     comments: 318
     blanks: 192
     files: 19
@@ -201,24 +201,24 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 15403
-    blanks: 6634
-    files: 146
+    comments: 15508
+    blanks: 6675
+    files: 147
   Text:
     code: 0
     comments: 1950
     blanks: 13
     files: 268
 total:
-  code: 776624
-  comments: 84241
-  blanks: 72874
-  files: 3370
+  code: 777408
+  comments: 84374
+  blanks: 72973
+  files: 3378
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:07:46+00:00
+  collectedAt: 2026-09-07T19:23:37+00:00
   platform:
     darwin/arm64:
       name:  local-ai-v4.9.0-darwin-arm64
