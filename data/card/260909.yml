@@ -2,28 +2,28 @@ about:
   description: "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required."
   license: MIT
   homepage: https://localai.io
-  head: bf93008
+  head: 752ee66
   archived: false
   latestVersion: "v4.9.0"
   latestRelease: "v4.9.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:20:48Z
+  collectedAt: 2026-09-09T19:22:35Z
 timeline:
   created: 2023-03-18
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-08-20
   lastRelease: 2026-08-20
   lastPrerelease: 
 popularity:
-  star: 48994
+  star: 49007
   watcher: 299
   fork: 4434
   release: 136
   contributor: 246
-  pullRequest: 5743
-  issue: 1584
+  pullRequest: 5746
+  issue: 1585
 language:
-  Go: 16183290
+  Go: 16193709
   JavaScript: 2501595
   C++: 1174812
   Python: 1155814
@@ -37,71 +37,71 @@ language:
   Dockerfile: 21174
   Nix: 6309
   Go Template: 796
-totalBytes: 23294409
+totalBytes: 23304828
 recent:
   last30d:
     since: 2026-08-10
     release: 1
-    mergedPR: 179
-    openPR: 71
+    mergedPR: 187
+    openPR: 66
     closedIssue: 21
-    openIssue: 31
-    commit: 311
+    openIssue: 32
+    commit: 319
   last60d:
     since: 2026-07-11
     release: 6
-    mergedPR: 329
-    openPR: 93
+    mergedPR: 337
+    openPR: 88
     closedIssue: 71
-    openIssue: 43
-    commit: 798
+    openIssue: 44
+    commit: 806
   last90d:
     since: 2026-06-11
     release: 19
-    mergedPR: 388
-    openPR: 96
+    mergedPR: 396
+    openPR: 91
     closedIssue: 125
-    openIssue: 50
-    commit: 1163
+    openIssue: 51
+    commit: 1171
   last180d:
     since: 2026-03-13
     release: 39
-    mergedPR: 710
-    openPR: 100
+    mergedPR: 718
+    openPR: 95
     closedIssue: 250
-    openIssue: 70
-    commit: 2044
+    openIssue: 71
+    commit: 2052
   last360d:
     since: 2025-09-14
     release: 52
-    mergedPR: 1283
-    openPR: 101
+    mergedPR: 1291
+    openPR: 96
     closedIssue: 411
-    openIssue: 75
-    commit: 3200
+    openIssue: 76
+    commit: 3208
   last720d:
     since: 2024-09-19
     release: 77
-    mergedPR: 2653
-    openPR: 101
+    mergedPR: 2661
+    openPR: 96
     closedIssue: 667
-    openIssue: 83
-    commit: 5228
+    openIssue: 84
+    commit: 5236
 total:
   release: 136
-  mergedPR: 4431
-  openPR: 101
+  mergedPR: 4439
+  openPR: 96
   closedIssue: 1489
-  openIssue: 95
-  commit: 7852
+  openIssue: 96
+  commit: 7860
 ---
 path: /home/runner/.x-repo/github.com/mudler/LocalAI
-collectedAt: 2026-09-09T05:21:03Z
+collectedAt: 2026-09-09T19:22:52Z
 loc:
   Go:
-    code: 514797
-    comments: 45401
-    blanks: 41715
+    code: 515018
+    comments: 45402
+    blanks: 41741
     files: 1725
   Yaml:
     code: 72649
@@ -205,8 +205,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 15656
-    blanks: 6717
+    comments: 15659
+    blanks: 6719
     files: 148
   Text:
     code: 0
@@ -214,9 +214,9 @@ loc:
     blanks: 13
     files: 268
 total:
-  code: 781863
-  comments: 84610
-  blanks: 73506
+  code: 782094
+  comments: 84614
+  blanks: 73534
   files: 3393
 ---
 
