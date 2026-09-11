@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.9.0"
   latestRelease: "v4.9.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:10:11Z
+  collectedAt: 2026-09-11T04:59:19Z
 timeline:
   created: 2023-03-18
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-20
   lastPrerelease: 
 popularity:
-  star: 49041
+  star: 49046
   watcher: 299
   fork: 4437
   release: 136
@@ -96,7 +96,7 @@ total:
   commit: 7868
 ---
 path: /home/runner/.x-repo/github.com/mudler/LocalAI
-collectedAt: 2026-09-11T00:10:28Z
+collectedAt: 2026-09-11T04:59:36Z
 loc:
   Go:
     code: 515155
