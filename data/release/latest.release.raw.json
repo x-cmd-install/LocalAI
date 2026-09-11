@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 16630172,
       "digest": "sha256:051a24eb8f93df0dad4ca19656e12b935a76ddd26ea71c6f905806676c83332d",
-      "download_count": 230,
+      "download_count": 233,
       "created_at": "2026-08-20T16:04:52Z",
       "updated_at": "2026-08-20T16:04:53Z",
       "browser_download_url": "https://github.com/mudler/LocalAI/releases/download/v4.9.0/local-ai-launcher-linux.tar.xz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 155840884,
       "digest": "sha256:e0825ed963737752b4b9b01a5f03054280a8087efa7f9a969dbe209d3318199f",
-      "download_count": 1187,
+      "download_count": 1193,
       "created_at": "2026-08-20T16:02:37Z",
       "updated_at": "2026-08-20T16:02:44Z",
       "browser_download_url": "https://github.com/mudler/LocalAI/releases/download/v4.9.0/local-ai-v4.9.0-darwin-arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 158417058,
       "digest": "sha256:18c9900e64cbd32f6d8bf7fca84be56b3ec4fcb11c429eced0009a5e817a50c1",
-      "download_count": 1928,
+      "download_count": 1948,
       "created_at": "2026-08-20T16:02:37Z",
       "updated_at": "2026-08-20T16:02:42Z",
       "browser_download_url": "https://github.com/mudler/LocalAI/releases/download/v4.9.0/local-ai-v4.9.0-linux-amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 149422242,
       "digest": "sha256:9b6dd9691d32b094c589cba015a8c012ddcbe757eef38de4d1a374b586faaa2a",
-      "download_count": 360,
+      "download_count": 363,
       "created_at": "2026-08-20T16:02:37Z",
       "updated_at": "2026-08-20T16:02:42Z",
       "browser_download_url": "https://github.com/mudler/LocalAI/releases/download/v4.9.0/local-ai-v4.9.0-linux-arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 378,
       "digest": "sha256:c6ed1e7a795198d6afa693d8b1f4ff804c1cbc7c0527d5e238d327811bc01e8e",
-      "download_count": 1140,
+      "download_count": 1151,
       "created_at": "2026-08-20T16:02:39Z",
       "updated_at": "2026-08-20T16:02:39Z",
       "browser_download_url": "https://github.com/mudler/LocalAI/releases/download/v4.9.0/LocalAI-v4.9.0-checksums.txt"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 20471151,
       "digest": "sha256:202e0d681fb1b5572ee3efb9b88a72dfdac7c4382770b84d881ef619a6b899fc",
-      "download_count": 883,
+      "download_count": 891,
       "created_at": "2026-08-20T16:02:11Z",
       "updated_at": "2026-08-20T16:02:13Z",
       "browser_download_url": "https://github.com/mudler/LocalAI/releases/download/v4.9.0/LocalAI.dmg"
