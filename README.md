@@ -32,40 +32,40 @@ Total: **782,554** lines of code across **2182** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v4.9.0` (2026-08-20)
-- **Last commit**: 2026-09-16
+- **Latest**: `v4.10.0` (2026-09-17)
+- **Last commit**: 2026-09-17
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 49,140 · **Forks**: 4,455 · **Open issues**: 1,596 · **Contributors**: 252
+- **Stars**: 49,147 · **Forks**: 4,457 · **Open issues**: 1,596 · **Contributors**: 253
 
 ## Totals (cumulative)
 
-- **Releases**: 136 · **Merged PRs**: 4515 · **Open PRs**: 71 · **Closed issues**: 1498 · **Open issues**: 98 · **Commits**: 7999
+- **Releases**: 137 · **Merged PRs**: 4517 · **Open PRs**: 91 · **Closed issues**: 1498 · **Open issues**: 98 · **Commits**: 8001
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 1 | 210 | 60 | 19 | 31 | 336 |
-| last60d | 2026-07-19 | 4 | 372 | 67 | 55 | 46 | 812 |
-| 90d | 2026-06-19 | 16 | 453 | 69 | 121 | 53 | 1235 |
-| last180d | 2026-03-21 | 38 | 762 | 71 | 245 | 73 | 2138 |
-| 360d | 2025-09-22 | 48 | 1341 | 71 | 415 | 78 | 3324 |
-| last720d | 2024-09-27 | 75 | 2696 | 71 | 664 | 86 | 5314 |
+| 30d | 2026-08-19 | 2 | 205 | 80 | 19 | 28 | 338 |
+| last60d | 2026-07-20 | 5 | 369 | 84 | 54 | 46 | 814 |
+| 90d | 2026-06-20 | 17 | 455 | 89 | 121 | 53 | 1237 |
+| last180d | 2026-03-22 | 39 | 762 | 91 | 245 | 73 | 2140 |
+| 360d | 2025-09-23 | 49 | 1343 | 91 | 415 | 78 | 3326 |
+| last720d | 2024-09-28 | 76 | 2698 | 91 | 661 | 86 | 5312 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [local-ai-launcher-linux.tar.xz](https://github.com/mudler/LocalAI/releases/download/v4.9.0/local-ai-launcher-linux.tar.xz) | 15.9 MiB | `other` |
-| [local-ai-v4.9.0-darwin-arm64](https://github.com/mudler/LocalAI/releases/download/v4.9.0/local-ai-v4.9.0-darwin-arm64) | 148.6 MiB | `native/darwin/arm64` |
-| [local-ai-v4.9.0-linux-amd64](https://github.com/mudler/LocalAI/releases/download/v4.9.0/local-ai-v4.9.0-linux-amd64) | 151.1 MiB | `native/linux/x64` |
-| [local-ai-v4.9.0-linux-arm64](https://github.com/mudler/LocalAI/releases/download/v4.9.0/local-ai-v4.9.0-linux-arm64) | 142.5 MiB | `native/linux/arm64` |
-| [LocalAI-v4.9.0-checksums.txt](https://github.com/mudler/LocalAI/releases/download/v4.9.0/LocalAI-v4.9.0-checksums.txt) | 378 B | `other` |
-| [LocalAI-v4.9.0-source.tar.gz](https://github.com/mudler/LocalAI/releases/download/v4.9.0/LocalAI-v4.9.0-source.tar.gz) | 24.9 MiB | `native/unknown` |
-| [LocalAI.dmg](https://github.com/mudler/LocalAI/releases/download/v4.9.0/LocalAI.dmg) | 19.5 MiB | `other` |
+| [local-ai-launcher-linux.tar.xz](https://github.com/mudler/LocalAI/releases/download/v4.10.0/local-ai-launcher-linux.tar.xz) | 15.9 MiB | `other` |
+| [local-ai-v4.10.0-darwin-arm64](https://github.com/mudler/LocalAI/releases/download/v4.10.0/local-ai-v4.10.0-darwin-arm64) | 149.5 MiB | `native/darwin/arm64` |
+| [local-ai-v4.10.0-linux-amd64](https://github.com/mudler/LocalAI/releases/download/v4.10.0/local-ai-v4.10.0-linux-amd64) | 152.0 MiB | `native/linux/x64` |
+| [local-ai-v4.10.0-linux-arm64](https://github.com/mudler/LocalAI/releases/download/v4.10.0/local-ai-v4.10.0-linux-arm64) | 143.4 MiB | `native/linux/arm64` |
+| [LocalAI-v4.10.0-checksums.txt](https://github.com/mudler/LocalAI/releases/download/v4.10.0/LocalAI-v4.10.0-checksums.txt) | 382 B | `other` |
+| [LocalAI-v4.10.0-source.tar.gz](https://github.com/mudler/LocalAI/releases/download/v4.10.0/LocalAI-v4.10.0-source.tar.gz) | 25.9 MiB | `native/unknown` |
+| [LocalAI.dmg](https://github.com/mudler/LocalAI/releases/download/v4.10.0/LocalAI.dmg) | 19.5 MiB | `other` |
 
 ## Improve this data
 
@@ -76,4 +76,4 @@ Install metadata for LocalAI lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T05:37:04Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T05:09:31Z._

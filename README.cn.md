@@ -32,40 +32,40 @@ x install LocalAI
 
 ## 发布
 
-- **最新版本**: `v4.9.0` (2026-08-20)
-- **最近提交**: 2026-09-16
+- **最新版本**: `v4.10.0` (2026-09-17)
+- **最近提交**: 2026-09-17
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 49,140 · **Fork**: 4,455 · **开放 issue**: 1,596 · **贡献者**: 252
+- **Star**: 49,147 · **Fork**: 4,457 · **开放 issue**: 1,596 · **贡献者**: 253
 
 ## 累计统计
 
-- **发布数**: 136 · **已合并 PR**: 4515 · **开放 PR**: 71 · **已关闭 issue**: 1498 · **开放 issue**: 98 · **提交数**: 7999
+- **发布数**: 137 · **已合并 PR**: 4517 · **开放 PR**: 91 · **已关闭 issue**: 1498 · **开放 issue**: 98 · **提交数**: 8001
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 1 | 210 | 60 | 19 | 31 | 336 |
-| last60d | 2026-07-19 | 4 | 372 | 67 | 55 | 46 | 812 |
-| 90d | 2026-06-19 | 16 | 453 | 69 | 121 | 53 | 1235 |
-| last180d | 2026-03-21 | 38 | 762 | 71 | 245 | 73 | 2138 |
-| 360d | 2025-09-22 | 48 | 1341 | 71 | 415 | 78 | 3324 |
-| last720d | 2024-09-27 | 75 | 2696 | 71 | 664 | 86 | 5314 |
+| 30d | 2026-08-19 | 2 | 205 | 80 | 19 | 28 | 338 |
+| last60d | 2026-07-20 | 5 | 369 | 84 | 54 | 46 | 814 |
+| 90d | 2026-06-20 | 17 | 455 | 89 | 121 | 53 | 1237 |
+| last180d | 2026-03-22 | 39 | 762 | 91 | 245 | 73 | 2140 |
+| 360d | 2025-09-23 | 49 | 1343 | 91 | 415 | 78 | 3326 |
+| last720d | 2024-09-28 | 76 | 2698 | 91 | 661 | 86 | 5312 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [local-ai-launcher-linux.tar.xz](https://github.com/mudler/LocalAI/releases/download/v4.9.0/local-ai-launcher-linux.tar.xz) | 15.9 MiB | `other` |
-| [local-ai-v4.9.0-darwin-arm64](https://github.com/mudler/LocalAI/releases/download/v4.9.0/local-ai-v4.9.0-darwin-arm64) | 148.6 MiB | `native/darwin/arm64` |
-| [local-ai-v4.9.0-linux-amd64](https://github.com/mudler/LocalAI/releases/download/v4.9.0/local-ai-v4.9.0-linux-amd64) | 151.1 MiB | `native/linux/x64` |
-| [local-ai-v4.9.0-linux-arm64](https://github.com/mudler/LocalAI/releases/download/v4.9.0/local-ai-v4.9.0-linux-arm64) | 142.5 MiB | `native/linux/arm64` |
-| [LocalAI-v4.9.0-checksums.txt](https://github.com/mudler/LocalAI/releases/download/v4.9.0/LocalAI-v4.9.0-checksums.txt) | 378 B | `other` |
-| [LocalAI-v4.9.0-source.tar.gz](https://github.com/mudler/LocalAI/releases/download/v4.9.0/LocalAI-v4.9.0-source.tar.gz) | 24.9 MiB | `native/unknown` |
-| [LocalAI.dmg](https://github.com/mudler/LocalAI/releases/download/v4.9.0/LocalAI.dmg) | 19.5 MiB | `other` |
+| [local-ai-launcher-linux.tar.xz](https://github.com/mudler/LocalAI/releases/download/v4.10.0/local-ai-launcher-linux.tar.xz) | 15.9 MiB | `other` |
+| [local-ai-v4.10.0-darwin-arm64](https://github.com/mudler/LocalAI/releases/download/v4.10.0/local-ai-v4.10.0-darwin-arm64) | 149.5 MiB | `native/darwin/arm64` |
+| [local-ai-v4.10.0-linux-amd64](https://github.com/mudler/LocalAI/releases/download/v4.10.0/local-ai-v4.10.0-linux-amd64) | 152.0 MiB | `native/linux/x64` |
+| [local-ai-v4.10.0-linux-arm64](https://github.com/mudler/LocalAI/releases/download/v4.10.0/local-ai-v4.10.0-linux-arm64) | 143.4 MiB | `native/linux/arm64` |
+| [LocalAI-v4.10.0-checksums.txt](https://github.com/mudler/LocalAI/releases/download/v4.10.0/LocalAI-v4.10.0-checksums.txt) | 382 B | `other` |
+| [LocalAI-v4.10.0-source.tar.gz](https://github.com/mudler/LocalAI/releases/download/v4.10.0/LocalAI-v4.10.0-source.tar.gz) | 25.9 MiB | `native/unknown` |
+| [LocalAI.dmg](https://github.com/mudler/LocalAI/releases/download/v4.10.0/LocalAI.dmg) | 19.5 MiB | `other` |
 
 ## 改进这些数据
 
@@ -76,4 +76,4 @@ LocalAI 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260917.yml` · 2026-09-17T05:37:05Z._
+_数据快照: `data/card/260918.yml` · 2026-09-18T05:09:31Z._
