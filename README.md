@@ -4,7 +4,7 @@
 
 LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 
-[![x-cmd/install — LocalAI Code Quality Monitoring Repo Card](https://repo.x-cmd.io/LocalAI.svg)](https://x-cmd.com/install/LocalAI)
+[![x-cmd/install — LocalAI Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/LocalAI.svg)](https://x-cmd.com/install/LocalAI)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install LocalAI
 
 ## Code insight
 
-Total: **790,343** lines of code across **2220** files in the top 5 languages.
+Total: **790,886** lines of code across **2223** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 524,232 | 46,241 | 42,789 | 1788 |
-| Yaml | 77,085 | 768 | 843 | 107 |
+| Go | 524,664 | 46,279 | 42,816 | 1791 |
+| Yaml | 77,189 | 768 | 843 | 107 |
 | Jsx | 36,692 | 2,302 | 2,608 | 168 |
 | Json | 30,597 | 0 | 2 | 121 |
 | Css | 28,114 | 1,221 | 7,124 | 36 |
@@ -38,22 +38,22 @@ Total: **790,343** lines of code across **2220** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 49,209 · **Forks**: 4,460 · **Open issues**: 1,597 · **Contributors**: 254
+- **Stars**: 49,230 · **Forks**: 4,464 · **Open issues**: 1,598 · **Contributors**: 254
 
 ## Totals (cumulative)
 
-- **Releases**: 137 · **Merged PRs**: 4580 · **Open PRs**: 79 · **Closed issues**: 1498 · **Open issues**: 99 · **Commits**: 8064
+- **Releases**: 137 · **Merged PRs**: 4591 · **Open PRs**: 81 · **Closed issues**: 1498 · **Open issues**: 100 · **Commits**: 8075
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 249 | 66 | 17 | 23 | 310 |
-| last60d | 2026-07-24 | 5 | 408 | 73 | 43 | 43 | 785 |
-| 90d | 2026-06-24 | 16 | 507 | 77 | 117 | 54 | 1187 |
-| last180d | 2026-03-26 | 39 | 813 | 79 | 240 | 73 | 2166 |
-| 360d | 2025-09-27 | 49 | 1399 | 79 | 412 | 79 | 3366 |
-| last720d | 2024-10-02 | 76 | 2737 | 79 | 659 | 87 | 5348 |
+| 30d | 2026-08-24 | 1 | 256 | 68 | 16 | 20 | 321 |
+| last60d | 2026-07-25 | 5 | 418 | 75 | 43 | 44 | 796 |
+| 90d | 2026-06-25 | 16 | 518 | 79 | 116 | 55 | 1198 |
+| last180d | 2026-03-27 | 39 | 821 | 81 | 238 | 74 | 2177 |
+| 360d | 2025-09-28 | 49 | 1410 | 81 | 412 | 80 | 3377 |
+| last720d | 2024-10-03 | 76 | 2745 | 81 | 658 | 88 | 5354 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for LocalAI lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:20:20Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:14:15Z._

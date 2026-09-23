@@ -4,7 +4,7 @@
 
 LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 
-[![x-cmd/install — LocalAI Code Quality Monitoring Repo Card](https://repo.x-cmd.io/LocalAI.svg?lang=zh)](https://x-cmd.com/install/LocalAI)
+[![x-cmd/install — LocalAI Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/LocalAI.svg?lang=zh)](https://x-cmd.com/install/LocalAI)
 
 ## 安装
 
@@ -14,12 +14,12 @@ x install LocalAI
 
 ## 代码洞察
 
-合计: **790,343** 行代码（覆盖前 5 种语言、共 **2220** 个文件）。
+合计: **790,886** 行代码（覆盖前 5 种语言、共 **2223** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 524,232 | 46,241 | 42,789 | 1788 |
-| Yaml | 77,085 | 768 | 843 | 107 |
+| Go | 524,664 | 46,279 | 42,816 | 1791 |
+| Yaml | 77,189 | 768 | 843 | 107 |
 | Jsx | 36,692 | 2,302 | 2,608 | 168 |
 | Json | 30,597 | 0 | 2 | 121 |
 | Css | 28,114 | 1,221 | 7,124 | 36 |
@@ -38,22 +38,22 @@ x install LocalAI
 
 ## 流行度
 
-- **Star**: 49,209 · **Fork**: 4,460 · **开放 issue**: 1,597 · **贡献者**: 254
+- **Star**: 49,230 · **Fork**: 4,464 · **开放 issue**: 1,598 · **贡献者**: 254
 
 ## 累计统计
 
-- **发布数**: 137 · **已合并 PR**: 4580 · **开放 PR**: 79 · **已关闭 issue**: 1498 · **开放 issue**: 99 · **提交数**: 8064
+- **发布数**: 137 · **已合并 PR**: 4591 · **开放 PR**: 81 · **已关闭 issue**: 1498 · **开放 issue**: 100 · **提交数**: 8075
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 249 | 66 | 17 | 23 | 310 |
-| last60d | 2026-07-24 | 5 | 408 | 73 | 43 | 43 | 785 |
-| 90d | 2026-06-24 | 16 | 507 | 77 | 117 | 54 | 1187 |
-| last180d | 2026-03-26 | 39 | 813 | 79 | 240 | 73 | 2166 |
-| 360d | 2025-09-27 | 49 | 1399 | 79 | 412 | 79 | 3366 |
-| last720d | 2024-10-02 | 76 | 2737 | 79 | 659 | 87 | 5348 |
+| 30d | 2026-08-24 | 1 | 256 | 68 | 16 | 20 | 321 |
+| last60d | 2026-07-25 | 5 | 418 | 75 | 43 | 44 | 796 |
+| 90d | 2026-06-25 | 16 | 518 | 79 | 116 | 55 | 1198 |
+| last180d | 2026-03-27 | 39 | 821 | 81 | 238 | 74 | 2177 |
+| 360d | 2025-09-28 | 49 | 1410 | 81 | 412 | 80 | 3377 |
+| last720d | 2024-10-03 | 76 | 2745 | 81 | 658 | 88 | 5354 |
 
 ## Release 资产
 
@@ -76,4 +76,4 @@ LocalAI 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:20:21Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:14:16Z._
