@@ -14,14 +14,14 @@ x install LocalAI
 
 ## 代码洞察
 
-合计: **819,826** 行代码（覆盖前 5 种语言、共 **2355** 个文件）。
+合计: **825,211** 行代码（覆盖前 5 种语言、共 **2410** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 547,281 | 49,310 | 45,489 | 1919 |
-| Yaml | 80,801 | 768 | 847 | 107 |
-| Jsx | 37,139 | 2,347 | 2,638 | 171 |
-| Json | 31,943 | 0 | 2 | 122 |
+| Go | 551,891 | 49,770 | 46,073 | 1972 |
+| Yaml | 81,003 | 768 | 848 | 108 |
+| Jsx | 37,298 | 2,351 | 2,641 | 172 |
+| Json | 32,079 | 0 | 2 | 122 |
 | Css | 28,164 | 1,227 | 7,126 | 36 |
 
 ## 源代码
@@ -32,40 +32,40 @@ x install LocalAI
 
 ## 发布
 
-- **最新版本**: `v4.10.0` (2026-09-17)
-- **最近提交**: 2026-10-01
+- **最新版本**: `v4.11.0` (2026-10-02)
+- **最近提交**: 2026-10-02
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 49,367 · **Fork**: 4,481 · **开放 issue**: 1,609 · **贡献者**: 259
+- **Star**: 49,371 · **Fork**: 4,483 · **开放 issue**: 1,610 · **贡献者**: 260
 
 ## 累计统计
 
-- **发布数**: 137 · **已合并 PR**: 4749 · **开放 PR**: 88 · **已关闭 issue**: 1519 · **开放 issue**: 90 · **提交数**: 8342
+- **发布数**: 138 · **已合并 PR**: 4767 · **开放 PR**: 87 · **已关闭 issue**: 1519 · **开放 issue**: 91 · **提交数**: 8360
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 1 | 356 | 74 | 23 | 12 | 501 |
-| last60d | 2026-08-03 | 5 | 522 | 81 | 55 | 33 | 881 |
-| 90d | 2026-07-04 | 10 | 655 | 86 | 107 | 43 | 1370 |
-| last180d | 2026-04-05 | 38 | 940 | 88 | 249 | 62 | 2367 |
-| 360d | 2025-10-07 | 48 | 1537 | 88 | 430 | 70 | 3587 |
-| last720d | 2024-10-12 | 76 | 2842 | 88 | 675 | 78 | 5555 |
+| 30d | 2026-09-03 | 2 | 359 | 73 | 23 | 13 | 518 |
+| last60d | 2026-08-04 | 6 | 532 | 80 | 54 | 32 | 898 |
+| 90d | 2026-07-05 | 10 | 672 | 85 | 107 | 44 | 1387 |
+| last180d | 2026-04-06 | 38 | 950 | 87 | 245 | 63 | 2384 |
+| 360d | 2025-10-08 | 49 | 1554 | 87 | 430 | 71 | 3604 |
+| last720d | 2024-10-13 | 76 | 2858 | 87 | 675 | 79 | 5569 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [local-ai-launcher-linux.tar.xz](https://github.com/mudler/LocalAI/releases/download/v4.10.0/local-ai-launcher-linux.tar.xz) | 15.9 MiB | `other` |
-| [local-ai-v4.10.0-darwin-arm64](https://github.com/mudler/LocalAI/releases/download/v4.10.0/local-ai-v4.10.0-darwin-arm64) | 149.5 MiB | `native/darwin/arm64` |
-| [local-ai-v4.10.0-linux-amd64](https://github.com/mudler/LocalAI/releases/download/v4.10.0/local-ai-v4.10.0-linux-amd64) | 152.0 MiB | `native/linux/x64` |
-| [local-ai-v4.10.0-linux-arm64](https://github.com/mudler/LocalAI/releases/download/v4.10.0/local-ai-v4.10.0-linux-arm64) | 143.4 MiB | `native/linux/arm64` |
-| [LocalAI-v4.10.0-checksums.txt](https://github.com/mudler/LocalAI/releases/download/v4.10.0/LocalAI-v4.10.0-checksums.txt) | 382 B | `other` |
-| [LocalAI-v4.10.0-source.tar.gz](https://github.com/mudler/LocalAI/releases/download/v4.10.0/LocalAI-v4.10.0-source.tar.gz) | 25.9 MiB | `native/unknown` |
-| [LocalAI.dmg](https://github.com/mudler/LocalAI/releases/download/v4.10.0/LocalAI.dmg) | 19.5 MiB | `other` |
+| [local-ai-launcher-linux.tar.xz](https://github.com/mudler/LocalAI/releases/download/v4.11.0/local-ai-launcher-linux.tar.xz) | 15.9 MiB | `other` |
+| [local-ai-v4.11.0-darwin-arm64](https://github.com/mudler/LocalAI/releases/download/v4.11.0/local-ai-v4.11.0-darwin-arm64) | 182.0 MiB | `native/darwin/arm64` |
+| [local-ai-v4.11.0-linux-amd64](https://github.com/mudler/LocalAI/releases/download/v4.11.0/local-ai-v4.11.0-linux-amd64) | 186.2 MiB | `native/linux/x64` |
+| [local-ai-v4.11.0-linux-arm64](https://github.com/mudler/LocalAI/releases/download/v4.11.0/local-ai-v4.11.0-linux-arm64) | 175.2 MiB | `native/linux/arm64` |
+| [LocalAI-v4.11.0-checksums.txt](https://github.com/mudler/LocalAI/releases/download/v4.11.0/LocalAI-v4.11.0-checksums.txt) | 382 B | `other` |
+| [LocalAI-v4.11.0-source.tar.gz](https://github.com/mudler/LocalAI/releases/download/v4.11.0/LocalAI-v4.11.0-source.tar.gz) | 26.3 MiB | `native/unknown` |
+| [LocalAI.dmg](https://github.com/mudler/LocalAI/releases/download/v4.11.0/LocalAI.dmg) | 19.5 MiB | `other` |
 
 ## 改进这些数据
 
@@ -76,4 +76,4 @@ LocalAI 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261002.yml` · 2026-10-02T06:06:43Z._
+_数据快照: `data/card/261003.yml` · 2026-10-03T05:35:19Z._
