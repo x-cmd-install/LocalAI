@@ -14,15 +14,15 @@ x install LocalAI
 
 ## Code insight
 
-Total: **920,978** lines of code across **3057** files in the top 5 languages.
+Total: **1,231,866** lines of code across **3884** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 588,533 | 53,321 | 49,424 | 2220 |
-| Yaml | 93,189 | 854 | 922 | 108 |
-| Jsx | 47,159 | 3,507 | 3,248 | 256 |
-| JavaScript | 46,845 | 5,133 | 5,604 | 342 |
-| Json | 38,464 | 0 | 2 | 131 |
+| Go | 674,242 | 62,565 | 55,358 | 2628 |
+| Yaml | 266,488 | 920 | 1,649 | 157 |
+| JavaScript | 66,214 | 7,126 | 7,185 | 555 |
+| Json | 57,909 | 0 | 2 | 191 |
+| Jsx | 56,884 | 4,301 | 4,009 | 353 |
 
 ## Source
 
@@ -32,40 +32,42 @@ Total: **920,978** lines of code across **3057** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v4.11.0` (2026-10-02)
-- **Last commit**: 2026-10-21
-- **Assets in release**: 7
+- **Latest**: `v4.12.0` (2026-10-22)
+- **Last commit**: 2026-10-22
+- **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 49,845 · **Forks**: 4,528 · **Open issues**: 1,634 · **Contributors**: 265
+- **Stars**: 49,859 · **Forks**: 4,531 · **Open issues**: 1,638 · **Contributors**: 266
 
 ## Totals (cumulative)
 
-- **Releases**: 138 · **Merged PRs**: 4971 · **Open PRs**: 110 · **Closed issues**: 1534 · **Open issues**: 100 · **Commits**: 8660
+- **Releases**: 139 · **Merged PRs**: 4983 · **Open PRs**: 119 · **Closed issues**: 1536 · **Open issues**: 102 · **Commits**: 8672
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 338 | 92 | 15 | 22 | 527 |
-| last60d | 2026-08-23 | 2 | 636 | 101 | 41 | 37 | 909 |
-| 90d | 2026-07-24 | 6 | 798 | 105 | 71 | 53 | 1386 |
-| last180d | 2026-04-25 | 36 | 1051 | 109 | 222 | 68 | 2455 |
-| 360d | 2025-10-27 | 49 | 1687 | 110 | 433 | 80 | 3729 |
-| last720d | 2024-11-01 | 75 | 2949 | 110 | 672 | 87 | 5702 |
+| 30d | 2026-09-23 | 2 | 336 | 101 | 15 | 25 | 539 |
+| last60d | 2026-08-24 | 3 | 644 | 110 | 40 | 37 | 921 |
+| 90d | 2026-07-25 | 7 | 809 | 114 | 71 | 57 | 1398 |
+| last180d | 2026-04-26 | 37 | 1062 | 118 | 222 | 72 | 2467 |
+| 360d | 2025-10-28 | 50 | 1698 | 119 | 435 | 82 | 3741 |
+| last720d | 2024-11-02 | 76 | 2956 | 119 | 673 | 89 | 5711 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [local-ai-launcher-linux.tar.xz](https://github.com/mudler/LocalAI/releases/download/v4.11.0/local-ai-launcher-linux.tar.xz) | 15.9 MiB | `other` |
-| [local-ai-v4.11.0-darwin-arm64](https://github.com/mudler/LocalAI/releases/download/v4.11.0/local-ai-v4.11.0-darwin-arm64) | 182.0 MiB | `native/darwin/arm64` |
-| [local-ai-v4.11.0-linux-amd64](https://github.com/mudler/LocalAI/releases/download/v4.11.0/local-ai-v4.11.0-linux-amd64) | 186.2 MiB | `native/linux/x64` |
-| [local-ai-v4.11.0-linux-arm64](https://github.com/mudler/LocalAI/releases/download/v4.11.0/local-ai-v4.11.0-linux-arm64) | 175.2 MiB | `native/linux/arm64` |
-| [LocalAI-v4.11.0-checksums.txt](https://github.com/mudler/LocalAI/releases/download/v4.11.0/LocalAI-v4.11.0-checksums.txt) | 382 B | `other` |
-| [LocalAI-v4.11.0-source.tar.gz](https://github.com/mudler/LocalAI/releases/download/v4.11.0/LocalAI-v4.11.0-source.tar.gz) | 26.3 MiB | `native/unknown` |
-| [LocalAI.dmg](https://github.com/mudler/LocalAI/releases/download/v4.11.0/LocalAI.dmg) | 19.5 MiB | `other` |
+| [local-ai-launcher-linux.tar.xz](https://github.com/mudler/LocalAI/releases/download/v4.12.0/local-ai-launcher-linux.tar.xz) | 15.9 MiB | `other` |
+| [local-ai-v4.12.0-darwin-arm64](https://github.com/mudler/LocalAI/releases/download/v4.12.0/local-ai-v4.12.0-darwin-arm64) | 183.3 MiB | `native/darwin/arm64` |
+| [local-ai-v4.12.0-linux-amd64](https://github.com/mudler/LocalAI/releases/download/v4.12.0/local-ai-v4.12.0-linux-amd64) | 187.6 MiB | `native/linux/x64` |
+| [local-ai-v4.12.0-linux-arm64](https://github.com/mudler/LocalAI/releases/download/v4.12.0/local-ai-v4.12.0-linux-arm64) | 176.4 MiB | `native/linux/arm64` |
+| [LocalAI-Launcher-x86_64.AppImage](https://github.com/mudler/LocalAI/releases/download/v4.12.0/LocalAI-Launcher-x86_64.AppImage) | 11.4 MiB | `other` |
+| [LocalAI-Launcher-x86_64.AppImage.sha256](https://github.com/mudler/LocalAI/releases/download/v4.12.0/LocalAI-Launcher-x86_64.AppImage.sha256) | 99 B | `other` |
+| [LocalAI-v4.12.0-checksums.txt](https://github.com/mudler/LocalAI/releases/download/v4.12.0/LocalAI-v4.12.0-checksums.txt) | 382 B | `other` |
+| [LocalAI-v4.12.0-source.tar.gz](https://github.com/mudler/LocalAI/releases/download/v4.12.0/LocalAI-v4.12.0-source.tar.gz) | 28.7 MiB | `native/unknown` |
+| [LocalAI.dmg](https://github.com/mudler/LocalAI/releases/download/v4.12.0/LocalAI.dmg) | 19.5 MiB | `other` |
 
 ## Improve this data
 
@@ -76,4 +78,4 @@ Install metadata for LocalAI lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:01:30Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:04:11Z._
