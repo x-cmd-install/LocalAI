@@ -14,15 +14,15 @@ x install LocalAI
 
 ## Code insight
 
-Total: **1,247,344** lines of code across **3936** files in the top 5 languages.
+Total: **1,253,134** lines of code across **3946** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 683,483 | 63,661 | 56,353 | 2693 |
-| Yaml | 274,507 | 909 | 1,631 | 157 |
-| JavaScript | 66,375 | 7,277 | 7,210 | 562 |
-| Json | 58,994 | 0 | 2 | 190 |
-| Jsx | 53,124 | 4,218 | 3,726 | 334 |
+| Go | 688,276 | 64,359 | 56,875 | 2702 |
+| Yaml | 273,817 | 978 | 1,680 | 156 |
+| JavaScript | 66,587 | 7,289 | 7,232 | 564 |
+| Json | 58,995 | 0 | 2 | 190 |
+| Jsx | 53,146 | 4,227 | 3,726 | 334 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **1,247,344** lines of code across **3936** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.12.1` (2026-10-23)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-29
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 50,034 · **Forks**: 4,558 · **Open issues**: 1,649 · **Contributors**: 273
+- **Stars**: 50,067 · **Forks**: 4,558 · **Open issues**: 1,649 · **Contributors**: 273
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 5058 · **Open PRs**: 93 · **Closed issues**: 1544 · **Open issues**: 105 · **Commits**: 8799
+- **Releases**: 140 · **Merged PRs**: 5068 · **Open PRs**: 98 · **Closed issues**: 1545 · **Open issues**: 104 · **Commits**: 8809
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 3 | 323 | 70 | 14 | 30 | 453 |
-| last60d | 2026-08-30 | 4 | 697 | 81 | 40 | 42 | 975 |
-| 90d | 2026-07-31 | 8 | 849 | 87 | 70 | 62 | 1376 |
-| last180d | 2026-05-02 | 38 | 1114 | 92 | 227 | 76 | 2552 |
-| 360d | 2025-11-03 | 50 | 1756 | 93 | 436 | 85 | 3816 |
-| last720d | 2024-11-08 | 77 | 3014 | 93 | 680 | 92 | 5809 |
+| 30d | 2026-09-30 | 3 | 316 | 71 | 15 | 29 | 463 |
+| last60d | 2026-08-31 | 4 | 693 | 85 | 40 | 41 | 985 |
+| 90d | 2026-08-01 | 8 | 852 | 92 | 70 | 60 | 1386 |
+| last180d | 2026-05-03 | 38 | 1122 | 97 | 228 | 75 | 2562 |
+| 360d | 2025-11-04 | 50 | 1766 | 98 | 435 | 84 | 3826 |
+| last720d | 2024-11-09 | 77 | 3022 | 98 | 681 | 91 | 5814 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for LocalAI lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:01:43Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:04:41Z._
