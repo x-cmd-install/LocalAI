@@ -14,7 +14,7 @@ x install LocalAI
 
 ## Code insight
 
-Total: **1,253,134** lines of code across **3946** files in the top 5 languages.
+Total: **1,253,138** lines of code across **3946** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -33,27 +33,27 @@ Total: **1,253,134** lines of code across **3946** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.12.1` (2026-10-23)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-10-30
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 50,067 · **Forks**: 4,558 · **Open issues**: 1,649 · **Contributors**: 273
+- **Stars**: 50,083 · **Forks**: 4,560 · **Open issues**: 1,651 · **Contributors**: 274
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 5068 · **Open PRs**: 98 · **Closed issues**: 1545 · **Open issues**: 104 · **Commits**: 8809
+- **Releases**: 140 · **Merged PRs**: 5089 · **Open PRs**: 88 · **Closed issues**: 1546 · **Open issues**: 105 · **Commits**: 8830
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 3 | 316 | 71 | 15 | 29 | 463 |
-| last60d | 2026-08-31 | 4 | 693 | 85 | 40 | 41 | 985 |
-| 90d | 2026-08-01 | 8 | 852 | 92 | 70 | 60 | 1386 |
-| last180d | 2026-05-03 | 38 | 1122 | 97 | 228 | 75 | 2562 |
-| 360d | 2025-11-04 | 50 | 1766 | 98 | 435 | 84 | 3826 |
-| last720d | 2024-11-09 | 77 | 3022 | 98 | 681 | 91 | 5814 |
+| 30d | 2026-10-01 | 3 | 323 | 58 | 15 | 31 | 484 |
+| last60d | 2026-09-01 | 4 | 705 | 75 | 39 | 42 | 1006 |
+| 90d | 2026-08-02 | 8 | 869 | 82 | 70 | 62 | 1407 |
+| last180d | 2026-05-04 | 38 | 1139 | 87 | 226 | 76 | 2583 |
+| 360d | 2025-11-05 | 50 | 1785 | 88 | 434 | 85 | 3847 |
+| last720d | 2024-11-10 | 77 | 3039 | 88 | 682 | 92 | 5832 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for LocalAI lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:04:41Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:55:50Z._
