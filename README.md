@@ -33,27 +33,27 @@ Total: **1,253,138** lines of code across **3946** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.12.1` (2026-10-23)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-10-31
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 50,083 · **Forks**: 4,560 · **Open issues**: 1,651 · **Contributors**: 274
+- **Stars**: 50,106 · **Forks**: 4,563 · **Open issues**: 1,653 · **Contributors**: 274
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 5089 · **Open PRs**: 88 · **Closed issues**: 1546 · **Open issues**: 105 · **Commits**: 8830
+- **Releases**: 140 · **Merged PRs**: 5091 · **Open PRs**: 99 · **Closed issues**: 1548 · **Open issues**: 105 · **Commits**: 8832
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 3 | 323 | 58 | 15 | 31 | 484 |
-| last60d | 2026-09-01 | 4 | 705 | 75 | 39 | 42 | 1006 |
-| 90d | 2026-08-02 | 8 | 869 | 82 | 70 | 62 | 1407 |
-| last180d | 2026-05-04 | 38 | 1139 | 87 | 226 | 76 | 2583 |
-| 360d | 2025-11-05 | 50 | 1785 | 88 | 434 | 85 | 3847 |
-| last720d | 2024-11-10 | 77 | 3039 | 88 | 682 | 92 | 5832 |
+| 30d | 2026-10-02 | 3 | 313 | 70 | 15 | 33 | 486 |
+| last60d | 2026-09-02 | 4 | 698 | 87 | 37 | 44 | 1008 |
+| 90d | 2026-08-03 | 8 | 864 | 93 | 70 | 64 | 1409 |
+| last180d | 2026-05-05 | 38 | 1136 | 98 | 227 | 76 | 2585 |
+| 360d | 2025-11-06 | 50 | 1786 | 99 | 434 | 84 | 3849 |
+| last720d | 2024-11-11 | 76 | 3033 | 99 | 684 | 92 | 5829 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for LocalAI lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:55:50Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:22:59Z._
