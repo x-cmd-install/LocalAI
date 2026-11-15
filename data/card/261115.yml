@@ -1,0 +1,233 @@
+about:
+  description: "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required."
+  license: MIT
+  homepage: https://localai.io
+  head: 08580e8
+  archived: false
+  latestVersion: "v4.12.1"
+  latestRelease: "v4.12.1"
+  latestPrerelease: ""
+  collectedAt: 2026-11-15T06:56:06Z
+timeline:
+  created: 2023-03-18
+  lastCommit: 2026-11-14
+  lastVersion: 2026-10-23
+  lastRelease: 2026-10-23
+  lastPrerelease: 
+popularity:
+  star: 50370
+  watcher: 299
+  fork: 4605
+  release: 140
+  contributor: 282
+  pullRequest: 5901
+  issue: 1676
+language:
+  Go: 42602151
+  JavaScript: 10522633
+  C++: 1430693
+  CSS: 1418870
+  Python: 1345172
+  Shell: 711136
+  Makefile: 335637
+  HTML: 235043
+  CMake: 69670
+  C: 42227
+  Dockerfile: 36264
+  Rust: 31005
+  Go Template: 10331
+  Nix: 6309
+totalBytes: 58797141
+recent:
+  last30d:
+    since: 2026-10-16
+    release: 2
+    mergedPR: 125
+    openPR: 49
+    closedIssue: 18
+    openIssue: 31
+    commit: 1492
+  last60d:
+    since: 2026-09-16
+    release: 4
+    mergedPR: 255
+    openPR: 61
+    closedIssue: 34
+    openIssue: 50
+    commit: 2318
+  last90d:
+    since: 2026-08-17
+    release: 5
+    mergedPR: 311
+    openPR: 63
+    closedIssue: 65
+    openIssue: 71
+    commit: 2872
+  last180d:
+    since: 2026-05-19
+    release: 31
+    mergedPR: 516
+    openPR: 66
+    closedIssue: 222
+    openIssue: 80
+    commit: 4985
+  last360d:
+    since: 2025-11-20
+    release: 50
+    mergedPR: 1150
+    openPR: 67
+    closedIssue: 439
+    openIssue: 83
+    commit: 6933
+  last720d:
+    since: 2024-11-25
+    release: 76
+    mergedPR: 2375
+    openPR: 67
+    closedIssue: 698
+    openIssue: 91
+    commit: 6918
+total:
+  release: 140
+  mergedPR: 4507
+  openPR: 67
+  closedIssue: 1572
+  openIssue: 104
+  commit: 10019
+---
+path: /home/runner/.x-repo/github.com/mudler/LocalAI
+collectedAt: 2026-11-15T06:56:37Z
+loc:
+  Go:
+    code: 1087283
+    comments: 112461
+    blanks: 90199
+    files: 4998
+  Yaml:
+    code: 298918
+    comments: 1345
+    blanks: 1691
+    files: 176
+  Json:
+    code: 194834
+    comments: 0
+    blanks: 2
+    files: 538
+  JavaScript:
+    code: 128732
+    comments: 15315
+    blanks: 13578
+    files: 1203
+  Jsx:
+    code: 80510
+    comments: 8115
+    blanks: 5153
+    files: 590
+  Css:
+    code: 33779
+    comments: 2610
+    blanks: 4873
+    files: 141
+  Python:
+    code: 28671
+    comments: 2100
+    blanks: 4743
+    files: 152
+  Cpp:
+    code: 20219
+    comments: 4778
+    blanks: 2854
+    files: 69
+  Sh:
+    code: 11496
+    comments: 3977
+    blanks: 2016
+    files: 335
+  Makefile:
+    code: 5340
+    comments: 1620
+    blanks: 1159
+    files: 87
+  CHeader:
+    code: 2873
+    comments: 1661
+    blanks: 532
+    files: 47
+  Html:
+    code: 2192
+    comments: 23
+    blanks: 89
+    files: 92
+  Protobuf:
+    code: 1139
+    comments: 435
+    blanks: 203
+    files: 2
+  CMake:
+    code: 1011
+    comments: 343
+    blanks: 204
+    files: 21
+  Rust:
+    code: 772
+    comments: 25
+    blanks: 132
+    files: 4
+  C:
+    code: 536
+    comments: 39
+    blanks: 63
+    files: 4
+  Dockerfile:
+    code: 516
+    comments: 177
+    blanks: 104
+    files: 5
+  CppHeader:
+    code: 360
+    comments: 54
+    blanks: 71
+    files: 1
+  Svg:
+    code: 181
+    comments: 0
+    blanks: 0
+    files: 11
+  Toml:
+    code: 169
+    comments: 25
+    blanks: 31
+    files: 6
+  Nix:
+    code: 47
+    comments: 118
+    blanks: 8
+    files: 1
+  Xml:
+    code: 11
+    comments: 0
+    blanks: 0
+    files: 2
+  Autoconf:
+    code: 7
+    comments: 7
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 92052
+    blanks: 43515
+    files: 341
+  Text:
+    code: 0
+    comments: 3367
+    blanks: 177
+    files: 292
+total:
+  code: 1920044
+  comments: 251514
+  blanks: 172013
+  files: 9119
+---
+
+---
