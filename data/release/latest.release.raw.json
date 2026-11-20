@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 212416,
       "digest": "sha256:6e6b2dd9c1ecc140131da0ece30b5a6fba61a71c65c36512e2b18ff30dd75db5",
-      "download_count": 264,
+      "download_count": 3800,
       "created_at": "2026-11-19T06:43:43Z",
       "updated_at": "2026-11-19T06:43:44Z",
       "browser_download_url": "https://github.com/mudler/LocalAI/releases/download/v5.0.0/addons-index.yaml"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 384,
       "digest": "sha256:8f0d559d0052f5e05867a98793f191f601eb3694dfa2b2c10e49659e98181903",
-      "download_count": 4,
+      "download_count": 13,
       "created_at": "2026-11-18T21:24:40Z",
       "updated_at": "2026-11-18T21:24:40Z",
       "browser_download_url": "https://github.com/mudler/LocalAI/releases/download/v5.0.0/latest-linux-arm64.yml"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 386,
       "digest": "sha256:9666fe95ce0a65a9b8aa9a1405159a146d2d7bf861b3749a6cda982cc425707d",
-      "download_count": 31,
+      "download_count": 121,
       "created_at": "2026-11-18T21:24:40Z",
       "updated_at": "2026-11-18T21:24:41Z",
       "browser_download_url": "https://github.com/mudler/LocalAI/releases/download/v5.0.0/latest-linux.yml"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 511,
       "digest": "sha256:c290ffd84bb514771d04854b79a97874bf1d9d6fbed69e59ffadf1102cea0bd9",
-      "download_count": 16,
+      "download_count": 87,
       "created_at": "2026-11-18T21:24:40Z",
       "updated_at": "2026-11-18T21:24:40Z",
       "browser_download_url": "https://github.com/mudler/LocalAI/releases/download/v5.0.0/latest-mac.yml"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 199644405,
       "digest": "sha256:a8d4b10af45922d10af880a6c5ae3fea7989639166e07b4cdcd4a775a81f36b5",
-      "download_count": 54,
+      "download_count": 165,
       "created_at": "2026-11-18T17:15:55Z",
       "updated_at": "2026-11-18T17:16:09Z",
       "browser_download_url": "https://github.com/mudler/LocalAI/releases/download/v5.0.0/local-ai-v5.0.0-darwin-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 206037154,
       "digest": "sha256:368eb6b7b37ff578c0c3e6bad62fd25b6b05ee4e841f908984421a428cf35ed2",
-      "download_count": 162,
+      "download_count": 382,
       "created_at": "2026-11-18T17:15:55Z",
       "updated_at": "2026-11-18T17:16:06Z",
       "browser_download_url": "https://github.com/mudler/LocalAI/releases/download/v5.0.0/local-ai-v5.0.0-linux-amd64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 192348322,
       "digest": "sha256:965bbf0b2c55f1d6610995d502dc79f51bfa03e3d8df3944f7bd35290e7e3425",
-      "download_count": 34,
+      "download_count": 71,
       "created_at": "2026-11-18T17:15:55Z",
       "updated_at": "2026-11-18T17:16:03Z",
       "browser_download_url": "https://github.com/mudler/LocalAI/releases/download/v5.0.0/local-ai-v5.0.0-linux-arm64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 116665632,
       "digest": "sha256:8af703ea9ab879b29e298d26f1e1d5f54f1eb7a976bc196589cdbe5d00dd54ac",
-      "download_count": 7,
+      "download_count": 23,
       "created_at": "2026-11-18T21:19:08Z",
       "updated_at": "2026-11-18T21:22:06Z",
       "browser_download_url": "https://github.com/mudler/LocalAI/releases/download/v5.0.0/LocalAI-Launcher-5.0.0-arm64-mac.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 122208,
       "digest": "sha256:f597d0631c72e32b80418f0887f4cb9aa74d144695394729510cd66e64e7e237",
-      "download_count": 3,
+      "download_count": 8,
       "created_at": "2026-11-18T21:19:09Z",
       "updated_at": "2026-11-18T21:19:10Z",
       "browser_download_url": "https://github.com/mudler/LocalAI/releases/download/v5.0.0/LocalAI-Launcher-5.0.0-arm64-mac.zip.blockmap"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 103,
       "digest": "sha256:7fbd59c67750a31abd6a97c2a7cc2a73e3eea0be42bd516be0ea70dcbd8f494a",
-      "download_count": 7,
+      "download_count": 14,
       "created_at": "2026-11-18T21:19:12Z",
       "updated_at": "2026-11-18T21:19:12Z",
       "browser_download_url": "https://github.com/mudler/LocalAI/releases/download/v5.0.0/LocalAI-Launcher-5.0.0-arm64-mac.zip.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 127661015,
       "digest": "sha256:e8d411307d50438b6f3706da3c868d8085d11692d271853cbf778684f314249f",
-      "download_count": 17,
+      "download_count": 63,
       "created_at": "2026-11-18T21:19:06Z",
       "updated_at": "2026-11-18T21:24:39Z",
       "browser_download_url": "https://github.com/mudler/LocalAI/releases/download/v5.0.0/LocalAI-Launcher-arm64.AppImage"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 98,
       "digest": "sha256:904549e2676c508441e5087fa91893030ab52975d2cfccf58b1e67ac7ae692a3",
-      "download_count": 6,
+      "download_count": 12,
       "created_at": "2026-11-18T21:19:06Z",
       "updated_at": "2026-11-18T21:19:07Z",
       "browser_download_url": "https://github.com/mudler/LocalAI/releases/download/v5.0.0/LocalAI-Launcher-arm64.AppImage.sha256"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 126376530,
       "digest": "sha256:fd01721d8f5826f931a894e367d44755243e8fea1018059d0d16b82bbe09b16d",
-      "download_count": 51,
+      "download_count": 177,
       "created_at": "2026-11-18T21:19:06Z",
       "updated_at": "2026-11-18T21:24:38Z",
       "browser_download_url": "https://github.com/mudler/LocalAI/releases/download/v5.0.0/LocalAI-Launcher-x86_64.AppImage"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 99,
       "digest": "sha256:b89254990bd2066d8986597f1e30b3ac3248187b5a805598fdcd25dcbab907a5",
-      "download_count": 7,
+      "download_count": 12,
       "created_at": "2026-11-18T21:19:06Z",
       "updated_at": "2026-11-18T21:19:07Z",
       "browser_download_url": "https://github.com/mudler/LocalAI/releases/download/v5.0.0/LocalAI-Launcher-x86_64.AppImage.sha256"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 378,
       "digest": "sha256:fda9789fc28a90bb13846d4c148d790d1cfff0cc1cc45ddd7840438a83e76606",
-      "download_count": 139,
+      "download_count": 514,
       "created_at": "2026-11-18T17:15:59Z",
       "updated_at": "2026-11-18T17:15:59Z",
       "browser_download_url": "https://github.com/mudler/LocalAI/releases/download/v5.0.0/LocalAI-v5.0.0-checksums.txt"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 65435419,
       "digest": "sha256:8879ff68b4356bef0c14997609d2e9740c4fbbbe62e8428e621286b9c5aaf42e",
-      "download_count": 45,
+      "download_count": 62,
       "created_at": "2026-11-18T17:15:55Z",
       "updated_at": "2026-11-18T17:15:58Z",
       "browser_download_url": "https://github.com/mudler/LocalAI/releases/download/v5.0.0/LocalAI-v5.0.0-source.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 120721974,
       "digest": "sha256:f7df5384af6523406ff303153d4c8058215356547ce7721de724ef4664298c62",
-      "download_count": 30,
+      "download_count": 100,
       "created_at": "2026-11-18T21:19:06Z",
       "updated_at": "2026-11-18T21:24:24Z",
       "browser_download_url": "https://github.com/mudler/LocalAI/releases/download/v5.0.0/LocalAI.dmg"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 78,
       "digest": "sha256:78d0b8aa5ab9c9c3f4e9c3c45212003961cd55bb00f62b866eacf7ce99efd2c6",
-      "download_count": 8,
+      "download_count": 12,
       "created_at": "2026-11-18T21:19:08Z",
       "updated_at": "2026-11-18T21:19:08Z",
       "browser_download_url": "https://github.com/mudler/LocalAI/releases/download/v5.0.0/LocalAI.dmg.sha256"
@@ -691,14 +691,14 @@
   "discussion_url": "https://github.com/mudler/LocalAI/discussions/13293",
   "reactions": {
     "url": "https://api.github.com/repos/mudler/LocalAI/releases/449244398/reactions",
-    "total_count": 3,
-    "+1": 0,
+    "total_count": 5,
+    "+1": 1,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
     "heart": 0,
-    "rocket": 3,
+    "rocket": 4,
     "eyes": 0
   },
   "mentions_count": 16
