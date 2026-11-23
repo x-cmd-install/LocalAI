@@ -1,0 +1,250 @@
+about:
+  description: "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required."
+  license: MIT
+  homepage: https://localai.io
+  head: 5a29071
+  archived: false
+  latestVersion: "dev-master"
+  latestRelease: "v5.0.1"
+  latestPrerelease: "dev-master"
+  collectedAt: 2026-11-23T07:54:19Z
+timeline:
+  created: 2023-03-18
+  lastCommit: 2026-11-23
+  lastVersion: 2026-11-15
+  lastRelease: 2026-11-20
+  lastPrerelease: 2026-11-15
+popularity:
+  star: 50508
+  watcher: 300
+  fork: 4633
+  release: 143
+  contributor: 289
+  pullRequest: 6044
+  issue: 1706
+language:
+  Go: 48342019
+  JavaScript: 11762689
+  CSS: 1477529
+  C++: 1432618
+  TypeScript: 1421772
+  Python: 1358973
+  Shell: 894134
+  Makefile: 356627
+  HTML: 224906
+  CMake: 69670
+  C: 42227
+  Dockerfile: 41405
+  PowerShell: 34066
+  Rust: 31005
+  Go Template: 10960
+  Nix: 6309
+totalBytes: 67506909
+recent:
+  last30d:
+    since: 2026-10-24
+    release: 3
+    mergedPR: 189
+    openPR: 70
+    closedIssue: 24
+    openIssue: 46
+    commit: 1928
+  last60d:
+    since: 2026-09-24
+    release: 6
+    mergedPR: 323
+    openPR: 85
+    closedIssue: 43
+    openIssue: 68
+    commit: 2695
+  last90d:
+    since: 2026-08-25
+    release: 7
+    mergedPR: 405
+    openPR: 85
+    closedIssue: 67
+    openIssue: 79
+    commit: 3415
+  last180d:
+    since: 2026-05-27
+    release: 32
+    mergedPR: 605
+    openPR: 89
+    closedIssue: 220
+    openIssue: 99
+    commit: 5485
+  last360d:
+    since: 2025-11-28
+    release: 52
+    mergedPR: 1235
+    openPR: 90
+    closedIssue: 441
+    openIssue: 102
+    commit: 7525
+  last720d:
+    since: 2024-12-03
+    release: 79
+    mergedPR: 2455
+    openPR: 90
+    closedIssue: 706
+    openIssue: 110
+    commit: 7441
+total:
+  release: 143
+  mergedPR: 4617
+  openPR: 90
+  closedIssue: 1584
+  openIssue: 122
+  commit: 10582
+---
+path: /home/runner/.x-repo/github.com/mudler/LocalAI
+collectedAt: 2026-11-23T07:54:53Z
+loc:
+  Go:
+    code: 1204633
+    comments: 130966
+    blanks: 102374
+    files: 5692
+  Yaml:
+    code: 308200
+    comments: 1491
+    blanks: 1777
+    files: 180
+  Json:
+    code: 252185
+    comments: 0
+    blanks: 2
+    files: 633
+  JavaScript:
+    code: 145908
+    comments: 17598
+    blanks: 15428
+    files: 1348
+  Jsx:
+    code: 88724
+    comments: 9295
+    blanks: 5572
+    files: 673
+  Python:
+    code: 28945
+    comments: 2117
+    blanks: 4796
+    files: 153
+  Css:
+    code: 27792
+    comments: 2642
+    blanks: 2230
+    files: 154
+  TypeScript:
+    code: 21500
+    comments: 2529
+    blanks: 2235
+    files: 127
+  Cpp:
+    code: 20249
+    comments: 4795
+    blanks: 2836
+    files: 69
+  Sh:
+    code: 13952
+    comments: 5160
+    blanks: 2302
+    files: 362
+  Html:
+    code: 7614
+    comments: 13
+    blanks: 1244
+    files: 99
+  Makefile:
+    code: 5518
+    comments: 1744
+    blanks: 1189
+    files: 88
+  Tsx:
+    code: 5453
+    comments: 188
+    blanks: 360
+    files: 29
+  CHeader:
+    code: 2876
+    comments: 1664
+    blanks: 533
+    files: 47
+  Protobuf:
+    code: 1139
+    comments: 435
+    blanks: 203
+    files: 2
+  CMake:
+    code: 1011
+    comments: 343
+    blanks: 204
+    files: 21
+  Rust:
+    code: 772
+    comments: 25
+    blanks: 132
+    files: 4
+  Dockerfile:
+    code: 561
+    comments: 214
+    blanks: 108
+    files: 8
+  PowerShell:
+    code: 541
+    comments: 171
+    blanks: 73
+    files: 3
+  C:
+    code: 536
+    comments: 39
+    blanks: 63
+    files: 4
+  CppHeader:
+    code: 360
+    comments: 54
+    blanks: 71
+    files: 1
+  Svg:
+    code: 181
+    comments: 0
+    blanks: 0
+    files: 11
+  Toml:
+    code: 162
+    comments: 25
+    blanks: 30
+    files: 5
+  Nix:
+    code: 47
+    comments: 118
+    blanks: 8
+    files: 1
+  Xml:
+    code: 11
+    comments: 0
+    blanks: 0
+    files: 2
+  Autoconf:
+    code: 7
+    comments: 7
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 97798
+    blanks: 44956
+    files: 403
+  Text:
+    code: 0
+    comments: 3362
+    blanks: 177
+    files: 292
+total:
+  code: 2159805
+  comments: 283657
+  blanks: 189561
+  files: 10412
+---
+
+---
